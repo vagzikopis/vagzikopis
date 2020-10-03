@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**vagzikopis/vagzikopis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile. I am Vaggelis, an Electrical & Computer Engineer :rocket: from Thessaloniki, Greece. This period you will find me working on my diploma thesis :books: and getting closer to my university graduation :sunglasses:. If not on keyboard, probably outside hitting the gym or spending time with friends. Feel free to connect with me on social media.
+<p float='left'>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=vagzikopis&theme=chartreuse-dark&show_icons=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagzikopis&layout=compact&hide=css&theme=chartreuse-dark" />
+</p>
+&nbsp;
+&nbsp;
+&nbsp;
+<p align = "middle">
+<a href=https://twitter.com/vagzikopis><img height="30" src="twitter.gif"></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/evangelos-zikopis"><img height="30" src="linkedin.gif"></a>&nbsp;&nbsp;
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
